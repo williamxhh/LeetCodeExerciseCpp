@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E5ABE074-C4FA-4358-9A62-A987A2764910}</ProjectGuid>
+    <ProjectGuid>{9C1C6506-18D4-4983-890C-73BD0FEBF8D2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>NQueues</RootNamespace>
+    <RootNamespace>CombinationSum</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
