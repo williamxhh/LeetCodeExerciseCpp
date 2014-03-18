@@ -19,7 +19,7 @@ public:
 		int begin = 0,end = 0;
 		int index = begin;
 		int gasInCar = 0;
-		while(begin != end){
+		while(begin != ((end + 1)%gas.size())){
 			gasInCar += tank[index];
 			if(gasInCar < 0){
 				begin--;
